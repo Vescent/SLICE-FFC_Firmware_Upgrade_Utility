@@ -1,5 +1,5 @@
 # FFC_Firmware_Upgrade_Utility
-Utility for upgrading firmware in Vescent Fiber-based Frequency Comb products
+Utility for upgrading firmware in Vescent SLICE and Fiber-based Frequency Comb products
 ## NOTE:
   If you have used previous versions of a Vescent firmware upgrade utility on your PC please read and follow the instructions in https://github.com/Vescent/FFC_Firmware_Upgrade_Utility/blob/main/Removal_Of_Previous_DFU_Driver_Instructions.pdf
 

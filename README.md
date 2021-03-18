@@ -10,5 +10,5 @@ Utility for upgrading firmware in Vescent SLICE and Fiber-based Frequency Comb p
   
   The upgrade utility can be run from anywhere on your PC
 ## Configuration 1.7
-  Initial Release
+  Initial Release  
   Note: The ICE2-Only version only upgrades the ICE2 cards. The System Controller .dfu and .hex files still need to be in the upgrade folder though.

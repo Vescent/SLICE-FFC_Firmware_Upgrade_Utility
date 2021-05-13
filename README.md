@@ -14,4 +14,4 @@ Utility for upgrading firmware in Vescent SLICE and Fiber-based Frequency Comb p
   Fixes issues encountered on some Windows 10 machines that caused failures due to the inability to switch to firmware upgrade mode from virtual COM port mode.
 ## Configuration 1.7
   Initial Release  
-  Note: The ICE2-Only version only upgrades the ICE2 cards. The System Controller .dfu and .hex files still need to be in the upgrade folder though.
+  

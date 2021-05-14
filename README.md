@@ -12,6 +12,9 @@ Utility for upgrading firmware in Vescent SLICE and Fiber-based Frequency Comb p
   The upgrade utility can be run from anywhere on your PC
   
   
+## Configuration 1.11
+  Adds a check to make sure a System Controller firmware file is in the upgrade directory. Version 1.10 would miss this and erase the Systeme Controller  
+  without upgrading it.
 ## Configuration 1.10
   Fixes issues encountered on some Windows 10 machines that caused failures due to the inability to switch to firmware upgrade mode from virtual COM port mode.
 ## Configuration 1.7

@@ -12,7 +12,11 @@ Utility for upgrading firmware in Vescent SLICE and Fiber-based Frequency Comb p
   Optional: If it is desired to use the firmware upgrader on a PC without internet access, Left click on the SLICE_MODELS.cfg file and then click 'Download'. Place this file in the same directory as the SLICE_Firmware_Upgrader-1-42.exe file.
   
   The upgrade utility can be run from anywhere on your PC
-  
+
+## Configuration 1.44
+  1) Checks more COM Ports.
+  2) Safety features.
+  3) Minor aesthetic improvements to some printouts.
 ## Configuration 1.42
   1) Removes hard coded model information from the code base and into a separate SLICE_MODELS.cfg file that can be appended with new models as they become available.
   2) Removes the code size limitations for System Controller and ICE2 Firmware.

@@ -7,9 +7,9 @@ Utility for upgrading firmware in Vescent SLICE and Fiber-based Frequency Comb p
 ## Instructions
   Left click on SLICE_Firmware_Update_Instructions-V1-42.pdf and then click 'Download' to download the instructions for use.
 
-  Left click on the SLICE_Firmware_Upgrader-1-42-WIN.zip file and then click 'Download' to download the upgrade utility to your hard drive.
+  Left click on the SLICE_Firmware_Upgrader-1-44-WIN.zip file and then click 'Download' to download the upgrade utility to your hard drive.
 
-  Optional: If it is desired to use the firmware upgrader on a PC without internet access, Left click on the SLICE_MODELS.cfg file and then click 'Download'. Place this file in the same directory as the SLICE_Firmware_Upgrader-1-42.exe file.
+  Optional: If it is desired to use the firmware upgrader on a PC without internet access, Left click on the SLICE_MODELS.cfg file and then click 'Download'. Place this file in the same directory as the SLICE_Firmware_Upgrader-1-44-WIN.exe file.
   
   The upgrade utility can be run from anywhere on your PC
 

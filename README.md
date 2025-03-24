@@ -5,7 +5,7 @@ Utility for upgrading firmware in Vescent SLICE and Fiber-based Frequency Comb p
   https://github.com/Vescent/SLICE-FFC_Firmware_Upgrade_Utility/blob/main/Removal_Of_Previous_DFU_Driver_Instructions.pdf
 
 ## Instructions
-  Left click on SLICE_Firmware_Update_Instructions-V1-42.pdf and then click 'Download' to download the instructions for use.
+  Left click on SLICE_Firmware_Update_Instructions.pdf and then click 'Download' to download the instructions for use.
 
   Left click on the SLICE_Firmware_Upgrader-1-44-WIN.zip file and then click 'Download' to download the upgrade utility to your hard drive.
 
